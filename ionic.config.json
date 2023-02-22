@@ -1,0 +1,7 @@
+{
+  "name": "Hoazti",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
